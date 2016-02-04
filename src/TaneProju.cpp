@@ -1,6 +1,6 @@
 /*
 ===============================================================================
- Name        : ma in.c
+ Name        : main.c
  Author      : $(author)
  Version     :
  Copyright   : $(copyright)
