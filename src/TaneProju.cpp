@@ -3,7 +3,7 @@
  Name        : main.c
  Author      : $(author)
  Version     :
- Copyright   : $(copyright)
+ Copyright   : $(cop yright)
  Description : main definition // Git testing
 ===============================================================================
 */
